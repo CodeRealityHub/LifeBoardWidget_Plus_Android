@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifeBoard</string>
+    <string name="lifeboard_widget_description">LifeBoard daily insights and progress overview</string>
+</resources>

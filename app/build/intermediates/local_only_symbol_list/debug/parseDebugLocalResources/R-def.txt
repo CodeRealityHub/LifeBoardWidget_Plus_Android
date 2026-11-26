@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable screenshot_2026_11_26_at_08_45_50
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string lifeboard_widget_description
+style Theme.LifeBoardApp
+xml lifeboard_widget_info

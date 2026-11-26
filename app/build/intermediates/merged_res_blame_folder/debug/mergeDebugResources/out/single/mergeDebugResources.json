@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lifeboardapp-debug-67:/xml_lifeboard_widget_info.xml.flat",
+        "source": "com.example.lifeboardapp-main-69:/xml/lifeboard_widget_info.xml"
+    },
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/drawable_screenshot_2026_11_26_at_08_45_50.png.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/drawable/screenshot_2026_11_26_at_08_45_50.png"
+    },
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/xml_lifeboard_widget_info.xml.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/xml/lifeboard_widget_info.xml"
+    },
+    {
+        "merged": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-debug-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/anuragroy/.gradle/daemon/9.6.0/com.example.lifeboardapp-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

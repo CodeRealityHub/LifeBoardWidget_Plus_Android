@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6750A4</color>
+    <string name="app_name">LifeBoard</string>
+    <string name="lifeboard_widget_description">LifeBoard daily insights and progress overview</string>
+    <style name="Theme.LifeBoardApp" parent="android:style/Theme.Material.Light.NoActionBar">
+
+        
+        <item name="android:fontFamily">sans</item>
+
+        
+        <item name="android:colorAccent">#8B7CC8</item>
+
+        
+        <item name="android:windowBackground">#F8F7FC</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        
+        <item name="android:statusBarColor">#F8F7FC</item>
+        <item name="android:navigationBarColor">#F8F7FC</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        
+        <item name="android:textColorPrimary">#292638</item>
+        <item name="android:textColorSecondary">#777387</item>
+
+        
+        <item name="android:colorControlActivated">#8B7CC8</item>
+        <item name="android:colorControlHighlight">#338B7CC8</item>
+
+        
+        <item name="android:colorControlNormal">#B9B4C9</item>
+
+    </style>
+</resources>
